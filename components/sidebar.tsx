@@ -13,10 +13,10 @@ export function Sidebar() {
 
       <div className="p-4 border-b border-gray-700 flex items-center">
         <div className="w-12 h-12 rounded-full bg-gray-600 mr-3 overflow-hidden">
-          <img src="https://avatar.iran.liara.run/public/46" alt="User avatar" width={48} height={48} />
+          <img src="/js.png" alt="User avatar" width={48} height={48} />
         </div>
         <div className="flex items-center gap-2 justify-between">
-          <div className="text-sm font-medium cursor-pointer">John Doe</div>
+          <div className="text-xs font-medium cursor-pointer">Jeffrey Saltzman</div>
           <div className="text-xs text-gray-400">▼</div>
         </div>
       </div>
