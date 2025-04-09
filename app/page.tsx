@@ -120,8 +120,6 @@ export default function Dashboard() {
   useEffect(() => {
     if (window.ChatWidget) {
       console.log("ChatWidget is available");
-      console.log("ChatWidget is available");
-      console.log("ChatWidget is available");
       window.ChatWidget.sendData({ data });
     }
   }, []);
