@@ -1,0 +1,2132 @@
+{
+ "Heatmap": {
+    "columns": [
+        {
+            "dimensionName": "Engagement",
+            "name": "Overall",
+            "responseCount": 5484,
+            "responseRate": 92,
+            "subGroups": []
+        },
+        {
+            "dimensionName": "Engagement",
+            "name": "Amanda Dundas",
+            "responseCount": 2266,
+            "responseRate": 92,
+            "subGroups": []
+        },
+        {
+            "dimensionName": "Engagement",
+            "name": "Scott Brooks",
+            "responseCount": 2181,
+            "responseRate": 91,
+            "subGroups": []
+        },
+        {
+            "dimensionName": "Engagement",
+            "name": "Walter Reichman",
+            "responseCount": 366,
+            "responseRate": 94,
+            "subGroups": []
+        },
+        {
+            "dimensionName": "Engagement",
+            "name": "Natan Lerner",
+            "responseCount": 250,
+            "responseRate": 94,
+            "subGroups": []
+        },
+        {
+            "dimensionName": "Engagement",
+            "name": "Susie Maher",
+            "responseCount": 213,
+            "responseRate": 98,
+            "subGroups": []
+        },
+        {
+            "dimensionName": "Engagement",
+            "name": "Victoria Hendrickson",
+            "responseCount": 125,
+            "responseRate": 92,
+            "subGroups": []
+        },
+        {
+            "dimensionName": "Engagement",
+            "name": "Vicki Alcott",
+            "responseCount": 47,
+            "responseRate": 96,
+            "subGroups": []
+        },
+        {
+            "dimensionName": "Engagement",
+            "name": "Michelle Vinjamuri",
+            "responseCount": 21,
+            "responseRate": 95,
+            "subGroups": []
+        },
+        {
+            "dimensionName": "Engagement",
+            "name": "Amelia Wish",
+            "responseCount": 2,
+            "responseRate": 40,
+            "subGroups": []
+        },
+        {
+            "dimensionName": "Engagement",
+            "name": "Jerry Seibert",
+            "responseCount": 2,
+            "responseRate": 67,
+            "subGroups": []
+        },
+        {
+            "dimensionName": "Agility and Innovation",
+            "name": "Overall",
+            "responseCount": 5484,
+            "responseRate": 92,
+            "subGroups": []
+        },
+        {
+            "dimensionName": "Agility and Innovation",
+            "name": "Amanda Dundas",
+            "responseCount": 2266,
+            "responseRate": 92,
+            "subGroups": []
+        },
+        {
+            "dimensionName": "Agility and Innovation",
+            "name": "Scott Brooks",
+            "responseCount": 2181,
+            "responseRate": 91,
+            "subGroups": []
+        },
+        {
+            "dimensionName": "Agility and Innovation",
+            "name": "Walter Reichman",
+            "responseCount": 366,
+            "responseRate": 94,
+            "subGroups": []
+        },
+        {
+            "dimensionName": "Agility and Innovation",
+            "name": "Natan Lerner",
+            "responseCount": 250,
+            "responseRate": 94,
+            "subGroups": []
+        },
+        {
+            "dimensionName": "Agility and Innovation",
+            "name": "Susie Maher",
+            "responseCount": 213,
+            "responseRate": 98,
+            "subGroups": []
+        },
+        {
+            "dimensionName": "Agility and Innovation",
+            "name": "Victoria Hendrickson",
+            "responseCount": 125,
+            "responseRate": 92,
+            "subGroups": []
+        },
+        {
+            "dimensionName": "Agility and Innovation",
+            "name": "Vicki Alcott",
+            "responseCount": 47,
+            "responseRate": 96,
+            "subGroups": []
+        },
+        {
+            "dimensionName": "Agility and Innovation",
+            "name": "Michelle Vinjamuri",
+            "responseCount": 21,
+            "responseRate": 95,
+            "subGroups": []
+        },
+        {
+            "dimensionName": "Agility and Innovation",
+            "name": "Amelia Wish",
+            "responseCount": 2,
+            "responseRate": 40,
+            "subGroups": []
+        },
+        {
+            "dimensionName": "Agility and Innovation",
+            "name": "Jerry Seibert",
+            "responseCount": 2,
+            "responseRate": 67,
+            "subGroups": []
+        },
+        {
+            "dimensionName": "Collaboration and Open Communication",
+            "name": "Overall",
+            "responseCount": 5484,
+            "responseRate": 92,
+            "subGroups": []
+        },
+        {
+            "dimensionName": "Collaboration and Open Communication",
+            "name": "Amanda Dundas",
+            "responseCount": 2266,
+            "responseRate": 92,
+            "subGroups": []
+        },
+        {
+            "dimensionName": "Collaboration and Open Communication",
+            "name": "Scott Brooks",
+            "responseCount": 2181,
+            "responseRate": 91,
+            "subGroups": []
+        },
+        {
+            "dimensionName": "Collaboration and Open Communication",
+            "name": "Walter Reichman",
+            "responseCount": 366,
+            "responseRate": 94,
+            "subGroups": []
+        },
+        {
+            "dimensionName": "Collaboration and Open Communication",
+            "name": "Natan Lerner",
+            "responseCount": 250,
+            "responseRate": 94,
+            "subGroups": []
+        },
+        {
+            "dimensionName": "Collaboration and Open Communication",
+            "name": "Susie Maher",
+            "responseCount": 213,
+            "responseRate": 98,
+            "subGroups": []
+        },
+        {
+            "dimensionName": "Collaboration and Open Communication",
+            "name": "Victoria Hendrickson",
+            "responseCount": 125,
+            "responseRate": 92,
+            "subGroups": []
+        },
+        {
+            "dimensionName": "Collaboration and Open Communication",
+            "name": "Vicki Alcott",
+            "responseCount": 47,
+            "responseRate": 96,
+            "subGroups": []
+        },
+        {
+            "dimensionName": "Collaboration and Open Communication",
+            "name": "Michelle Vinjamuri",
+            "responseCount": 21,
+            "responseRate": 95,
+            "subGroups": []
+        },
+        {
+            "dimensionName": "Collaboration and Open Communication",
+            "name": "Amelia Wish",
+            "responseCount": 2,
+            "responseRate": 40,
+            "subGroups": []
+        },
+        {
+            "dimensionName": "Collaboration and Open Communication",
+            "name": "Jerry Seibert",
+            "responseCount": 2,
+            "responseRate": 67,
+            "subGroups": []
+        },
+        {
+            "dimensionName": "Diversity, Equity, and Inclusion",
+            "name": "Overall",
+            "responseCount": 5484,
+            "responseRate": 92,
+            "subGroups": []
+        },
+        {
+            "dimensionName": "Diversity, Equity, and Inclusion",
+            "name": "Amanda Dundas",
+            "responseCount": 2266,
+            "responseRate": 92,
+            "subGroups": []
+        },
+        {
+            "dimensionName": "Diversity, Equity, and Inclusion",
+            "name": "Scott Brooks",
+            "responseCount": 2181,
+            "responseRate": 91,
+            "subGroups": []
+        },
+        {
+            "dimensionName": "Diversity, Equity, and Inclusion",
+            "name": "Walter Reichman",
+            "responseCount": 366,
+            "responseRate": 94,
+            "subGroups": []
+        },
+        {
+            "dimensionName": "Diversity, Equity, and Inclusion",
+            "name": "Natan Lerner",
+            "responseCount": 250,
+            "responseRate": 94,
+            "subGroups": []
+        },
+        {
+            "dimensionName": "Diversity, Equity, and Inclusion",
+            "name": "Susie Maher",
+            "responseCount": 213,
+            "responseRate": 98,
+            "subGroups": []
+        },
+        {
+            "dimensionName": "Diversity, Equity, and Inclusion",
+            "name": "Victoria Hendrickson",
+            "responseCount": 125,
+            "responseRate": 92,
+            "subGroups": []
+        },
+        {
+            "dimensionName": "Diversity, Equity, and Inclusion",
+            "name": "Vicki Alcott",
+            "responseCount": 47,
+            "responseRate": 96,
+            "subGroups": []
+        },
+        {
+            "dimensionName": "Diversity, Equity, and Inclusion",
+            "name": "Michelle Vinjamuri",
+            "responseCount": 21,
+            "responseRate": 95,
+            "subGroups": []
+        },
+        {
+            "dimensionName": "Diversity, Equity, and Inclusion",
+            "name": "Amelia Wish",
+            "responseCount": 2,
+            "responseRate": 40,
+            "subGroups": []
+        },
+        {
+            "dimensionName": "Diversity, Equity, and Inclusion",
+            "name": "Jerry Seibert",
+            "responseCount": 2,
+            "responseRate": 67,
+            "subGroups": []
+        },
+        {
+            "dimensionName": "Customer Focus and Service",
+            "name": "Overall",
+            "responseCount": 5484,
+            "responseRate": 92,
+            "subGroups": []
+        },
+        {
+            "dimensionName": "Customer Focus and Service",
+            "name": "Amanda Dundas",
+            "responseCount": 2266,
+            "responseRate": 92,
+            "subGroups": []
+        },
+        {
+            "dimensionName": "Customer Focus and Service",
+            "name": "Scott Brooks",
+            "responseCount": 2181,
+            "responseRate": 91,
+            "subGroups": []
+        },
+        {
+            "dimensionName": "Customer Focus and Service",
+            "name": "Walter Reichman",
+            "responseCount": 366,
+            "responseRate": 94,
+            "subGroups": []
+        },
+        {
+            "dimensionName": "Customer Focus and Service",
+            "name": "Natan Lerner",
+            "responseCount": 250,
+            "responseRate": 94,
+            "subGroups": []
+        },
+        {
+            "dimensionName": "Customer Focus and Service",
+            "name": "Susie Maher",
+            "responseCount": 213,
+            "responseRate": 98,
+            "subGroups": []
+        },
+        {
+            "dimensionName": "Customer Focus and Service",
+            "name": "Victoria Hendrickson",
+            "responseCount": 125,
+            "responseRate": 92,
+            "subGroups": []
+        },
+        {
+            "dimensionName": "Customer Focus and Service",
+            "name": "Vicki Alcott",
+            "responseCount": 47,
+            "responseRate": 96,
+            "subGroups": []
+        },
+        {
+            "dimensionName": "Customer Focus and Service",
+            "name": "Michelle Vinjamuri",
+            "responseCount": 21,
+            "responseRate": 95,
+            "subGroups": []
+        },
+        {
+            "dimensionName": "Customer Focus and Service",
+            "name": "Amelia Wish",
+            "responseCount": 2,
+            "responseRate": 40,
+            "subGroups": []
+        },
+        {
+            "dimensionName": "Customer Focus and Service",
+            "name": "Jerry Seibert",
+            "responseCount": 2,
+            "responseRate": 67,
+            "subGroups": []
+        },
+        {
+            "dimensionName": "Execution and Efficiency",
+            "name": "Overall",
+            "responseCount": 5484,
+            "responseRate": 92,
+            "subGroups": []
+        },
+        {
+            "dimensionName": "Execution and Efficiency",
+            "name": "Amanda Dundas",
+            "responseCount": 2266,
+            "responseRate": 92,
+            "subGroups": []
+        },
+        {
+            "dimensionName": "Execution and Efficiency",
+            "name": "Scott Brooks",
+            "responseCount": 2181,
+            "responseRate": 91,
+            "subGroups": []
+        },
+        {
+            "dimensionName": "Execution and Efficiency",
+            "name": "Walter Reichman",
+            "responseCount": 366,
+            "responseRate": 94,
+            "subGroups": []
+        },
+        {
+            "dimensionName": "Execution and Efficiency",
+            "name": "Natan Lerner",
+            "responseCount": 250,
+            "responseRate": 94,
+            "subGroups": []
+        },
+        {
+            "dimensionName": "Execution and Efficiency",
+            "name": "Susie Maher",
+            "responseCount": 213,
+            "responseRate": 98,
+            "subGroups": []
+        },
+        {
+            "dimensionName": "Execution and Efficiency",
+            "name": "Victoria Hendrickson",
+            "responseCount": 125,
+            "responseRate": 92,
+            "subGroups": []
+        },
+        {
+            "dimensionName": "Execution and Efficiency",
+            "name": "Vicki Alcott",
+            "responseCount": 47,
+            "responseRate": 96,
+            "subGroups": []
+        },
+        {
+            "dimensionName": "Execution and Efficiency",
+            "name": "Michelle Vinjamuri",
+            "responseCount": 21,
+            "responseRate": 95,
+            "subGroups": []
+        },
+        {
+            "dimensionName": "Execution and Efficiency",
+            "name": "Amelia Wish",
+            "responseCount": 2,
+            "responseRate": 40,
+            "subGroups": []
+        },
+        {
+            "dimensionName": "Execution and Efficiency",
+            "name": "Jerry Seibert",
+            "responseCount": 2,
+            "responseRate": 67,
+            "subGroups": []
+        },
+        {
+            "dimensionName": "Manager Effectiveness",
+            "name": "Overall",
+            "responseCount": 5484,
+            "responseRate": 92,
+            "subGroups": []
+        },
+        {
+            "dimensionName": "Manager Effectiveness",
+            "name": "Amanda Dundas",
+            "responseCount": 2266,
+            "responseRate": 92,
+            "subGroups": []
+        },
+        {
+            "dimensionName": "Manager Effectiveness",
+            "name": "Scott Brooks",
+            "responseCount": 2181,
+            "responseRate": 91,
+            "subGroups": []
+        },
+        {
+            "dimensionName": "Manager Effectiveness",
+            "name": "Walter Reichman",
+            "responseCount": 366,
+            "responseRate": 94,
+            "subGroups": []
+        },
+        {
+            "dimensionName": "Manager Effectiveness",
+            "name": "Natan Lerner",
+            "responseCount": 250,
+            "responseRate": 94,
+            "subGroups": []
+        },
+        {
+            "dimensionName": "Manager Effectiveness",
+            "name": "Susie Maher",
+            "responseCount": 213,
+            "responseRate": 98,
+            "subGroups": []
+        },
+        {
+            "dimensionName": "Manager Effectiveness",
+            "name": "Victoria Hendrickson",
+            "responseCount": 125,
+            "responseRate": 92,
+            "subGroups": []
+        },
+        {
+            "dimensionName": "Manager Effectiveness",
+            "name": "Vicki Alcott",
+            "responseCount": 47,
+            "responseRate": 96,
+            "subGroups": []
+        },
+        {
+            "dimensionName": "Manager Effectiveness",
+            "name": "Michelle Vinjamuri",
+            "responseCount": 21,
+            "responseRate": 95,
+            "subGroups": []
+        },
+        {
+            "dimensionName": "Manager Effectiveness",
+            "name": "Amelia Wish",
+            "responseCount": 2,
+            "responseRate": 40,
+            "subGroups": []
+        },
+        {
+            "dimensionName": "Manager Effectiveness",
+            "name": "Jerry Seibert",
+            "responseCount": 2,
+            "responseRate": 67,
+            "subGroups": []
+        },
+        {
+            "dimensionName": "Performance and Recognition",
+            "name": "Overall",
+            "responseCount": 5484,
+            "responseRate": 92,
+            "subGroups": []
+        },
+        {
+            "dimensionName": "Performance and Recognition",
+            "name": "Amanda Dundas",
+            "responseCount": 2266,
+            "responseRate": 92,
+            "subGroups": []
+        },
+        {
+            "dimensionName": "Performance and Recognition",
+            "name": "Scott Brooks",
+            "responseCount": 2181,
+            "responseRate": 91,
+            "subGroups": []
+        },
+        {
+            "dimensionName": "Performance and Recognition",
+            "name": "Walter Reichman",
+            "responseCount": 366,
+            "responseRate": 94,
+            "subGroups": []
+        },
+        {
+            "dimensionName": "Performance and Recognition",
+            "name": "Natan Lerner",
+            "responseCount": 250,
+            "responseRate": 94,
+            "subGroups": []
+        },
+        {
+            "dimensionName": "Performance and Recognition",
+            "name": "Susie Maher",
+            "responseCount": 213,
+            "responseRate": 98,
+            "subGroups": []
+        },
+        {
+            "dimensionName": "Performance and Recognition",
+            "name": "Victoria Hendrickson",
+            "responseCount": 125,
+            "responseRate": 92,
+            "subGroups": []
+        },
+        {
+            "dimensionName": "Performance and Recognition",
+            "name": "Vicki Alcott",
+            "responseCount": 47,
+            "responseRate": 96,
+            "subGroups": []
+        },
+        {
+            "dimensionName": "Performance and Recognition",
+            "name": "Michelle Vinjamuri",
+            "responseCount": 21,
+            "responseRate": 95,
+            "subGroups": []
+        },
+        {
+            "dimensionName": "Performance and Recognition",
+            "name": "Amelia Wish",
+            "responseCount": 2,
+            "responseRate": 40,
+            "subGroups": []
+        },
+        {
+            "dimensionName": "Performance and Recognition",
+            "name": "Jerry Seibert",
+            "responseCount": 2,
+            "responseRate": 67,
+            "subGroups": []
+        },
+        {
+            "dimensionName": "Workplace of Choice",
+            "name": "Overall",
+            "responseCount": 5484,
+            "responseRate": 92,
+            "subGroups": []
+        },
+        {
+            "dimensionName": "Workplace of Choice",
+            "name": "Amanda Dundas",
+            "responseCount": 2266,
+            "responseRate": 92,
+            "subGroups": []
+        },
+        {
+            "dimensionName": "Workplace of Choice",
+            "name": "Scott Brooks",
+            "responseCount": 2181,
+            "responseRate": 91,
+            "subGroups": []
+        },
+        {
+            "dimensionName": "Workplace of Choice",
+            "name": "Walter Reichman",
+            "responseCount": 366,
+            "responseRate": 94,
+            "subGroups": []
+        },
+        {
+            "dimensionName": "Workplace of Choice",
+            "name": "Natan Lerner",
+            "responseCount": 250,
+            "responseRate": 94,
+            "subGroups": []
+        },
+        {
+            "dimensionName": "Workplace of Choice",
+            "name": "Susie Maher",
+            "responseCount": 213,
+            "responseRate": 98,
+            "subGroups": []
+        },
+        {
+            "dimensionName": "Workplace of Choice",
+            "name": "Victoria Hendrickson",
+            "responseCount": 125,
+            "responseRate": 92,
+            "subGroups": []
+        },
+        {
+            "dimensionName": "Workplace of Choice",
+            "name": "Vicki Alcott",
+            "responseCount": 47,
+            "responseRate": 96,
+            "subGroups": []
+        },
+        {
+            "dimensionName": "Workplace of Choice",
+            "name": "Michelle Vinjamuri",
+            "responseCount": 21,
+            "responseRate": 95,
+            "subGroups": []
+        },
+        {
+            "dimensionName": "Workplace of Choice",
+            "name": "Amelia Wish",
+            "responseCount": 2,
+            "responseRate": 40,
+            "subGroups": []
+        },
+        {
+            "dimensionName": "Workplace of Choice",
+            "name": "Jerry Seibert",
+            "responseCount": 2,
+            "responseRate": 67,
+            "subGroups": []
+        }
+    ],
+    "rows": [
+        {
+            "dimensionId": 6,
+            "dimension": "Engagement",
+            "dimensionOrder": 1,
+            "isDimension": true,
+            "questionId": 0,
+            "questionText": "Engagement",
+            "questionOrder": 0,
+            "numberAsText": "",
+            "minN": 5,
+            "datalineNames": [
+                {
+                    "dataLineName": "Overall",
+                    "dataLineName2": "",
+                    "responseCount": 5484,
+                    "responseRate": 92
+                },
+                {
+                    "dataLineName": "Amanda Dundas",
+                    "dataLineName2": "",
+                    "responseCount": 2266,
+                    "responseRate": 92
+                },
+                {
+                    "dataLineName": "Scott Brooks",
+                    "dataLineName2": "",
+                    "responseCount": 2181,
+                    "responseRate": 91
+                },
+                {
+                    "dataLineName": "Walter Reichman",
+                    "dataLineName2": "",
+                    "responseCount": 366,
+                    "responseRate": 94
+                },
+                {
+                    "dataLineName": "Natan Lerner",
+                    "dataLineName2": "",
+                    "responseCount": 250,
+                    "responseRate": 94
+                },
+                {
+                    "dataLineName": "Susie Maher",
+                    "dataLineName2": "",
+                    "responseCount": 213,
+                    "responseRate": 98
+                },
+                {
+                    "dataLineName": "Victoria Hendrickson",
+                    "dataLineName2": "",
+                    "responseCount": 125,
+                    "responseRate": 92
+                },
+                {
+                    "dataLineName": "Vicki Alcott",
+                    "dataLineName2": "",
+                    "responseCount": 47,
+                    "responseRate": 96
+                },
+                {
+                    "dataLineName": "Michelle Vinjamuri",
+                    "dataLineName2": "",
+                    "responseCount": 21,
+                    "responseRate": 95
+                },
+                {
+                    "dataLineName": "Amelia Wish",
+                    "dataLineName2": "",
+                    "responseCount": 2,
+                    "responseRate": 40
+                },
+                {
+                    "dataLineName": "Jerry Seibert",
+                    "dataLineName2": "",
+                    "responseCount": 2,
+                    "responseRate": 67
+                }
+            ],
+            "totalCounts": [
+                5382,
+                2229,
+                2134,
+                363,
+                247,
+                210,
+                122,
+                46,
+                21,
+                0,
+                0
+            ],
+            "scores": [
+                86,
+                83,
+                86,
+                91,
+                79,
+                89,
+                89,
+                91,
+                95,
+                0,
+                0
+            ],
+            "significantValues": [
+                0,
+                0,
+                0,
+                1,
+                -1,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "datalineIds": [
+                28446,
+                28630,
+                28914,
+                28564,
+                28500,
+                28455,
+                29189,
+                29223,
+                28447,
+                29220,
+                29221
+            ],
+            "datalineCount": 11,
+            "totalCount": 0,
+            "trends": [
+                0,
+                -3,
+                1,
+                2,
+                -2,
+                0,
+                0,
+                9,
+                6,
+                null,
+                null
+            ],
+            "trendSignificantValues": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "dimensionId": 1,
+            "dimension": "Agility and Innovation",
+            "dimensionOrder": 3,
+            "isDimension": true,
+            "questionId": 0,
+            "questionText": "Agility and Innovation",
+            "questionOrder": 0,
+            "numberAsText": "",
+            "minN": 5,
+            "datalineNames": [
+                {
+                    "dataLineName": "Overall",
+                    "dataLineName2": "",
+                    "responseCount": 5484,
+                    "responseRate": 92
+                },
+                {
+                    "dataLineName": "Amanda Dundas",
+                    "dataLineName2": "",
+                    "responseCount": 2266,
+                    "responseRate": 92
+                },
+                {
+                    "dataLineName": "Scott Brooks",
+                    "dataLineName2": "",
+                    "responseCount": 2181,
+                    "responseRate": 91
+                },
+                {
+                    "dataLineName": "Walter Reichman",
+                    "dataLineName2": "",
+                    "responseCount": 366,
+                    "responseRate": 94
+                },
+                {
+                    "dataLineName": "Natan Lerner",
+                    "dataLineName2": "",
+                    "responseCount": 250,
+                    "responseRate": 94
+                },
+                {
+                    "dataLineName": "Susie Maher",
+                    "dataLineName2": "",
+                    "responseCount": 213,
+                    "responseRate": 98
+                },
+                {
+                    "dataLineName": "Victoria Hendrickson",
+                    "dataLineName2": "",
+                    "responseCount": 125,
+                    "responseRate": 92
+                },
+                {
+                    "dataLineName": "Vicki Alcott",
+                    "dataLineName2": "",
+                    "responseCount": 47,
+                    "responseRate": 96
+                },
+                {
+                    "dataLineName": "Michelle Vinjamuri",
+                    "dataLineName2": "",
+                    "responseCount": 21,
+                    "responseRate": 95
+                },
+                {
+                    "dataLineName": "Amelia Wish",
+                    "dataLineName2": "",
+                    "responseCount": 2,
+                    "responseRate": 40
+                },
+                {
+                    "dataLineName": "Jerry Seibert",
+                    "dataLineName2": "",
+                    "responseCount": 2,
+                    "responseRate": 67
+                }
+            ],
+            "totalCounts": [
+                5444,
+                2244,
+                2167,
+                366,
+                249,
+                213,
+                125,
+                47,
+                21,
+                0,
+                0
+            ],
+            "scores": [
+                79,
+                77,
+                79,
+                83,
+                75,
+                80,
+                85,
+                84,
+                79,
+                0,
+                0
+            ],
+            "significantValues": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                1,
+                0,
+                0,
+                0,
+                0
+            ],
+            "datalineIds": [
+                28446,
+                28630,
+                28914,
+                28564,
+                28500,
+                28455,
+                29189,
+                29223,
+                28447,
+                29220,
+                29221
+            ],
+            "datalineCount": 11,
+            "totalCount": 0,
+            "trends": [
+                -7,
+                -9,
+                -6,
+                -7,
+                -8,
+                -8,
+                -3,
+                0,
+                -2,
+                null,
+                null
+            ],
+            "trendSignificantValues": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1,
+                -1,
+                0,
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "dimensionId": 2,
+            "dimension": "Collaboration and Open Communication",
+            "dimensionOrder": 4,
+            "isDimension": true,
+            "questionId": 0,
+            "questionText": "Collaboration and Open Communication",
+            "questionOrder": 0,
+            "numberAsText": "",
+            "minN": 5,
+            "datalineNames": [
+                {
+                    "dataLineName": "Overall",
+                    "dataLineName2": "",
+                    "responseCount": 5484,
+                    "responseRate": 92
+                },
+                {
+                    "dataLineName": "Amanda Dundas",
+                    "dataLineName2": "",
+                    "responseCount": 2266,
+                    "responseRate": 92
+                },
+                {
+                    "dataLineName": "Scott Brooks",
+                    "dataLineName2": "",
+                    "responseCount": 2181,
+                    "responseRate": 91
+                },
+                {
+                    "dataLineName": "Walter Reichman",
+                    "dataLineName2": "",
+                    "responseCount": 366,
+                    "responseRate": 94
+                },
+                {
+                    "dataLineName": "Natan Lerner",
+                    "dataLineName2": "",
+                    "responseCount": 250,
+                    "responseRate": 94
+                },
+                {
+                    "dataLineName": "Susie Maher",
+                    "dataLineName2": "",
+                    "responseCount": 213,
+                    "responseRate": 98
+                },
+                {
+                    "dataLineName": "Victoria Hendrickson",
+                    "dataLineName2": "",
+                    "responseCount": 125,
+                    "responseRate": 92
+                },
+                {
+                    "dataLineName": "Vicki Alcott",
+                    "dataLineName2": "",
+                    "responseCount": 47,
+                    "responseRate": 96
+                },
+                {
+                    "dataLineName": "Michelle Vinjamuri",
+                    "dataLineName2": "",
+                    "responseCount": 21,
+                    "responseRate": 95
+                },
+                {
+                    "dataLineName": "Amelia Wish",
+                    "dataLineName2": "",
+                    "responseCount": 2,
+                    "responseRate": 40
+                },
+                {
+                    "dataLineName": "Jerry Seibert",
+                    "dataLineName2": "",
+                    "responseCount": 2,
+                    "responseRate": 67
+                }
+            ],
+            "totalCounts": [
+                5464,
+                2255,
+                2173,
+                366,
+                249,
+                213,
+                125,
+                47,
+                21,
+                0,
+                0
+            ],
+            "scores": [
+                82,
+                81,
+                84,
+                82,
+                80,
+                80,
+                90,
+                79,
+                71,
+                0,
+                0
+            ],
+            "significantValues": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                1,
+                0,
+                0,
+                0,
+                0
+            ],
+            "datalineIds": [
+                28446,
+                28630,
+                28914,
+                28564,
+                28500,
+                28455,
+                29189,
+                29223,
+                28447,
+                29220,
+                29221
+            ],
+            "datalineCount": 11,
+            "totalCount": 0,
+            "trends": [
+                0,
+                -1,
+                3,
+                -2,
+                0,
+                1,
+                2,
+                8,
+                -4,
+                null,
+                null
+            ],
+            "trendSignificantValues": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "dimensionId": 5,
+            "dimension": "Diversity, Equity, and Inclusion",
+            "dimensionOrder": 5,
+            "isDimension": true,
+            "questionId": 0,
+            "questionText": "Diversity, Equity, and Inclusion",
+            "questionOrder": 0,
+            "numberAsText": "",
+            "minN": 5,
+            "datalineNames": [
+                {
+                    "dataLineName": "Overall",
+                    "dataLineName2": "",
+                    "responseCount": 5484,
+                    "responseRate": 92
+                },
+                {
+                    "dataLineName": "Amanda Dundas",
+                    "dataLineName2": "",
+                    "responseCount": 2266,
+                    "responseRate": 92
+                },
+                {
+                    "dataLineName": "Scott Brooks",
+                    "dataLineName2": "",
+                    "responseCount": 2181,
+                    "responseRate": 91
+                },
+                {
+                    "dataLineName": "Walter Reichman",
+                    "dataLineName2": "",
+                    "responseCount": 366,
+                    "responseRate": 94
+                },
+                {
+                    "dataLineName": "Natan Lerner",
+                    "dataLineName2": "",
+                    "responseCount": 250,
+                    "responseRate": 94
+                },
+                {
+                    "dataLineName": "Susie Maher",
+                    "dataLineName2": "",
+                    "responseCount": 213,
+                    "responseRate": 98
+                },
+                {
+                    "dataLineName": "Victoria Hendrickson",
+                    "dataLineName2": "",
+                    "responseCount": 125,
+                    "responseRate": 92
+                },
+                {
+                    "dataLineName": "Vicki Alcott",
+                    "dataLineName2": "",
+                    "responseCount": 47,
+                    "responseRate": 96
+                },
+                {
+                    "dataLineName": "Michelle Vinjamuri",
+                    "dataLineName2": "",
+                    "responseCount": 21,
+                    "responseRate": 95
+                },
+                {
+                    "dataLineName": "Amelia Wish",
+                    "dataLineName2": "",
+                    "responseCount": 2,
+                    "responseRate": 40
+                },
+                {
+                    "dataLineName": "Jerry Seibert",
+                    "dataLineName2": "",
+                    "responseCount": 2,
+                    "responseRate": 67
+                }
+            ],
+            "totalCounts": [
+                5393,
+                2237,
+                2134,
+                363,
+                247,
+                211,
+                121,
+                46,
+                21,
+                0,
+                0
+            ],
+            "scores": [
+                82,
+                80,
+                83,
+                82,
+                79,
+                79,
+                89,
+                78,
+                76,
+                0,
+                0
+            ],
+            "significantValues": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                1,
+                0,
+                0,
+                0,
+                0
+            ],
+            "datalineIds": [
+                28446,
+                28630,
+                28914,
+                28564,
+                28500,
+                28455,
+                29189,
+                29223,
+                28447,
+                29220,
+                29221
+            ],
+            "datalineCount": 11,
+            "totalCount": 0,
+            "trends": [
+                0,
+                -3,
+                4,
+                1,
+                0,
+                -3,
+                4,
+                9,
+                1,
+                null,
+                null
+            ],
+            "trendSignificantValues": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "dimensionId": 4,
+            "dimension": "Customer Focus and Service",
+            "dimensionOrder": 6,
+            "isDimension": true,
+            "questionId": 0,
+            "questionText": "Customer Focus and Service",
+            "questionOrder": 0,
+            "numberAsText": "",
+            "minN": 5,
+            "datalineNames": [
+                {
+                    "dataLineName": "Overall",
+                    "dataLineName2": "",
+                    "responseCount": 5484,
+                    "responseRate": 92
+                },
+                {
+                    "dataLineName": "Amanda Dundas",
+                    "dataLineName2": "",
+                    "responseCount": 2266,
+                    "responseRate": 92
+                },
+                {
+                    "dataLineName": "Scott Brooks",
+                    "dataLineName2": "",
+                    "responseCount": 2181,
+                    "responseRate": 91
+                },
+                {
+                    "dataLineName": "Walter Reichman",
+                    "dataLineName2": "",
+                    "responseCount": 366,
+                    "responseRate": 94
+                },
+                {
+                    "dataLineName": "Natan Lerner",
+                    "dataLineName2": "",
+                    "responseCount": 250,
+                    "responseRate": 94
+                },
+                {
+                    "dataLineName": "Susie Maher",
+                    "dataLineName2": "",
+                    "responseCount": 213,
+                    "responseRate": 98
+                },
+                {
+                    "dataLineName": "Victoria Hendrickson",
+                    "dataLineName2": "",
+                    "responseCount": 125,
+                    "responseRate": 92
+                },
+                {
+                    "dataLineName": "Vicki Alcott",
+                    "dataLineName2": "",
+                    "responseCount": 47,
+                    "responseRate": 96
+                },
+                {
+                    "dataLineName": "Michelle Vinjamuri",
+                    "dataLineName2": "",
+                    "responseCount": 21,
+                    "responseRate": 95
+                },
+                {
+                    "dataLineName": "Amelia Wish",
+                    "dataLineName2": "",
+                    "responseCount": 2,
+                    "responseRate": 40
+                },
+                {
+                    "dataLineName": "Jerry Seibert",
+                    "dataLineName2": "",
+                    "responseCount": 2,
+                    "responseRate": 67
+                }
+            ],
+            "totalCounts": [
+                5418,
+                2239,
+                2153,
+                365,
+                248,
+                212,
+                122,
+                46,
+                21,
+                0,
+                0
+            ],
+            "scores": [
+                81,
+                78,
+                83,
+                85,
+                73,
+                83,
+                84,
+                80,
+                95,
+                0,
+                0
+            ],
+            "significantValues": [
+                0,
+                0,
+                0,
+                0,
+                -1,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "datalineIds": [
+                28446,
+                28630,
+                28914,
+                28564,
+                28500,
+                28455,
+                29189,
+                29223,
+                28447,
+                29220,
+                29221
+            ],
+            "datalineCount": 11,
+            "totalCount": 0,
+            "trends": [
+                -1,
+                -3,
+                0,
+                -1,
+                -3,
+                -3,
+                1,
+                -4,
+                2,
+                null,
+                null
+            ],
+            "trendSignificantValues": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "dimensionId": 7,
+            "dimension": "Execution and Efficiency",
+            "dimensionOrder": 7,
+            "isDimension": true,
+            "questionId": 0,
+            "questionText": "Execution and Efficiency",
+            "questionOrder": 0,
+            "numberAsText": "",
+            "minN": 5,
+            "datalineNames": [
+                {
+                    "dataLineName": "Overall",
+                    "dataLineName2": "",
+                    "responseCount": 5484,
+                    "responseRate": 92
+                },
+                {
+                    "dataLineName": "Amanda Dundas",
+                    "dataLineName2": "",
+                    "responseCount": 2266,
+                    "responseRate": 92
+                },
+                {
+                    "dataLineName": "Scott Brooks",
+                    "dataLineName2": "",
+                    "responseCount": 2181,
+                    "responseRate": 91
+                },
+                {
+                    "dataLineName": "Walter Reichman",
+                    "dataLineName2": "",
+                    "responseCount": 366,
+                    "responseRate": 94
+                },
+                {
+                    "dataLineName": "Natan Lerner",
+                    "dataLineName2": "",
+                    "responseCount": 250,
+                    "responseRate": 94
+                },
+                {
+                    "dataLineName": "Susie Maher",
+                    "dataLineName2": "",
+                    "responseCount": 213,
+                    "responseRate": 98
+                },
+                {
+                    "dataLineName": "Victoria Hendrickson",
+                    "dataLineName2": "",
+                    "responseCount": 125,
+                    "responseRate": 92
+                },
+                {
+                    "dataLineName": "Vicki Alcott",
+                    "dataLineName2": "",
+                    "responseCount": 47,
+                    "responseRate": 96
+                },
+                {
+                    "dataLineName": "Michelle Vinjamuri",
+                    "dataLineName2": "",
+                    "responseCount": 21,
+                    "responseRate": 95
+                },
+                {
+                    "dataLineName": "Amelia Wish",
+                    "dataLineName2": "",
+                    "responseCount": 2,
+                    "responseRate": 40
+                },
+                {
+                    "dataLineName": "Jerry Seibert",
+                    "dataLineName2": "",
+                    "responseCount": 2,
+                    "responseRate": 67
+                }
+            ],
+            "totalCounts": [
+                5438,
+                2246,
+                2164,
+                366,
+                248,
+                213,
+                125,
+                47,
+                21,
+                0,
+                0
+            ],
+            "scores": [
+                78,
+                77,
+                78,
+                83,
+                71,
+                78,
+                83,
+                76,
+                81,
+                0,
+                0
+            ],
+            "significantValues": [
+                0,
+                0,
+                0,
+                1,
+                -1,
+                0,
+                1,
+                0,
+                0,
+                0,
+                0
+            ],
+            "datalineIds": [
+                28446,
+                28630,
+                28914,
+                28564,
+                28500,
+                28455,
+                29189,
+                29223,
+                28447,
+                29220,
+                29221
+            ],
+            "datalineCount": 11,
+            "totalCount": 0,
+            "trends": [
+                0,
+                -1,
+                1,
+                -1,
+                -1,
+                -1,
+                4,
+                -2,
+                2,
+                null,
+                null
+            ],
+            "trendSignificantValues": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "dimensionId": 8,
+            "dimension": "Manager Effectiveness",
+            "dimensionOrder": 8,
+            "isDimension": true,
+            "questionId": 0,
+            "questionText": "Manager Effectiveness",
+            "questionOrder": 0,
+            "numberAsText": "",
+            "minN": 5,
+            "datalineNames": [
+                {
+                    "dataLineName": "Overall",
+                    "dataLineName2": "",
+                    "responseCount": 5484,
+                    "responseRate": 92
+                },
+                {
+                    "dataLineName": "Amanda Dundas",
+                    "dataLineName2": "",
+                    "responseCount": 2266,
+                    "responseRate": 92
+                },
+                {
+                    "dataLineName": "Scott Brooks",
+                    "dataLineName2": "",
+                    "responseCount": 2181,
+                    "responseRate": 91
+                },
+                {
+                    "dataLineName": "Walter Reichman",
+                    "dataLineName2": "",
+                    "responseCount": 366,
+                    "responseRate": 94
+                },
+                {
+                    "dataLineName": "Natan Lerner",
+                    "dataLineName2": "",
+                    "responseCount": 250,
+                    "responseRate": 94
+                },
+                {
+                    "dataLineName": "Susie Maher",
+                    "dataLineName2": "",
+                    "responseCount": 213,
+                    "responseRate": 98
+                },
+                {
+                    "dataLineName": "Victoria Hendrickson",
+                    "dataLineName2": "",
+                    "responseCount": 125,
+                    "responseRate": 92
+                },
+                {
+                    "dataLineName": "Vicki Alcott",
+                    "dataLineName2": "",
+                    "responseCount": 47,
+                    "responseRate": 96
+                },
+                {
+                    "dataLineName": "Michelle Vinjamuri",
+                    "dataLineName2": "",
+                    "responseCount": 21,
+                    "responseRate": 95
+                },
+                {
+                    "dataLineName": "Amelia Wish",
+                    "dataLineName2": "",
+                    "responseCount": 2,
+                    "responseRate": 40
+                },
+                {
+                    "dataLineName": "Jerry Seibert",
+                    "dataLineName2": "",
+                    "responseCount": 2,
+                    "responseRate": 67
+                }
+            ],
+            "totalCounts": [
+                5387,
+                2229,
+                2134,
+                363,
+                247,
+                211,
+                122,
+                46,
+                21,
+                0,
+                0
+            ],
+            "scores": [
+                89,
+                88,
+                90,
+                89,
+                85,
+                88,
+                95,
+                85,
+                78,
+                0,
+                0
+            ],
+            "significantValues": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                1,
+                0,
+                0,
+                0,
+                0
+            ],
+            "datalineIds": [
+                28446,
+                28630,
+                28914,
+                28564,
+                28500,
+                28455,
+                29189,
+                29223,
+                28447,
+                29220,
+                29221
+            ],
+            "datalineCount": 11,
+            "totalCount": 0,
+            "trends": [
+                -2,
+                -3,
+                -1,
+                -3,
+                0,
+                1,
+                1,
+                1,
+                5,
+                null,
+                null
+            ],
+            "trendSignificantValues": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "dimensionId": 9,
+            "dimension": "Performance and Recognition",
+            "dimensionOrder": 9,
+            "isDimension": true,
+            "questionId": 0,
+            "questionText": "Performance and Recognition",
+            "questionOrder": 0,
+            "numberAsText": "",
+            "minN": 5,
+            "datalineNames": [
+                {
+                    "dataLineName": "Overall",
+                    "dataLineName2": "",
+                    "responseCount": 5484,
+                    "responseRate": 92
+                },
+                {
+                    "dataLineName": "Amanda Dundas",
+                    "dataLineName2": "",
+                    "responseCount": 2266,
+                    "responseRate": 92
+                },
+                {
+                    "dataLineName": "Scott Brooks",
+                    "dataLineName2": "",
+                    "responseCount": 2181,
+                    "responseRate": 91
+                },
+                {
+                    "dataLineName": "Walter Reichman",
+                    "dataLineName2": "",
+                    "responseCount": 366,
+                    "responseRate": 94
+                },
+                {
+                    "dataLineName": "Natan Lerner",
+                    "dataLineName2": "",
+                    "responseCount": 250,
+                    "responseRate": 94
+                },
+                {
+                    "dataLineName": "Susie Maher",
+                    "dataLineName2": "",
+                    "responseCount": 213,
+                    "responseRate": 98
+                },
+                {
+                    "dataLineName": "Victoria Hendrickson",
+                    "dataLineName2": "",
+                    "responseCount": 125,
+                    "responseRate": 92
+                },
+                {
+                    "dataLineName": "Vicki Alcott",
+                    "dataLineName2": "",
+                    "responseCount": 47,
+                    "responseRate": 96
+                },
+                {
+                    "dataLineName": "Michelle Vinjamuri",
+                    "dataLineName2": "",
+                    "responseCount": 21,
+                    "responseRate": 95
+                },
+                {
+                    "dataLineName": "Amelia Wish",
+                    "dataLineName2": "",
+                    "responseCount": 2,
+                    "responseRate": 40
+                },
+                {
+                    "dataLineName": "Jerry Seibert",
+                    "dataLineName2": "",
+                    "responseCount": 2,
+                    "responseRate": 67
+                }
+            ],
+            "totalCounts": [
+                5366,
+                2224,
+                2123,
+                362,
+                247,
+                210,
+                121,
+                46,
+                21,
+                0,
+                0
+            ],
+            "scores": [
+                79,
+                76,
+                81,
+                83,
+                75,
+                81,
+                77,
+                84,
+                67,
+                0,
+                0
+            ],
+            "significantValues": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "datalineIds": [
+                28446,
+                28630,
+                28914,
+                28564,
+                28500,
+                28455,
+                29189,
+                29223,
+                28447,
+                29220,
+                29221
+            ],
+            "datalineCount": 11,
+            "totalCount": 0,
+            "trends": [
+                -4,
+                -6,
+                -2,
+                -4,
+                -4,
+                -3,
+                -5,
+                3,
+                -10,
+                null,
+                null
+            ],
+            "trendSignificantValues": [
+                0,
+                -1,
+                0,
+                0,
+                0,
+                0,
+                -1,
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "dimensionId": 10,
+            "dimension": "Workplace of Choice",
+            "dimensionOrder": 10,
+            "isDimension": true,
+            "questionId": 0,
+            "questionText": "Workplace of Choice",
+            "questionOrder": 0,
+            "numberAsText": "",
+            "minN": 5,
+            "datalineNames": [
+                {
+                    "dataLineName": "Overall",
+                    "dataLineName2": "",
+                    "responseCount": 5484,
+                    "responseRate": 92
+                },
+                {
+                    "dataLineName": "Amanda Dundas",
+                    "dataLineName2": "",
+                    "responseCount": 2266,
+                    "responseRate": 92
+                },
+                {
+                    "dataLineName": "Scott Brooks",
+                    "dataLineName2": "",
+                    "responseCount": 2181,
+                    "responseRate": 91
+                },
+                {
+                    "dataLineName": "Walter Reichman",
+                    "dataLineName2": "",
+                    "responseCount": 366,
+                    "responseRate": 94
+                },
+                {
+                    "dataLineName": "Natan Lerner",
+                    "dataLineName2": "",
+                    "responseCount": 250,
+                    "responseRate": 94
+                },
+                {
+                    "dataLineName": "Susie Maher",
+                    "dataLineName2": "",
+                    "responseCount": 213,
+                    "responseRate": 98
+                },
+                {
+                    "dataLineName": "Victoria Hendrickson",
+                    "dataLineName2": "",
+                    "responseCount": 125,
+                    "responseRate": 92
+                },
+                {
+                    "dataLineName": "Vicki Alcott",
+                    "dataLineName2": "",
+                    "responseCount": 47,
+                    "responseRate": 96
+                },
+                {
+                    "dataLineName": "Michelle Vinjamuri",
+                    "dataLineName2": "",
+                    "responseCount": 21,
+                    "responseRate": 95
+                },
+                {
+                    "dataLineName": "Amelia Wish",
+                    "dataLineName2": "",
+                    "responseCount": 2,
+                    "responseRate": 40
+                },
+                {
+                    "dataLineName": "Jerry Seibert",
+                    "dataLineName2": "",
+                    "responseCount": 2,
+                    "responseRate": 67
+                }
+            ],
+            "totalCounts": [
+                5389,
+                2231,
+                2135,
+                363,
+                246,
+                210,
+                122,
+                46,
+                21,
+                0,
+                0
+            ],
+            "scores": [
+                81,
+                80,
+                82,
+                88,
+                74,
+                83,
+                82,
+                86,
+                92,
+                0,
+                0
+            ],
+            "significantValues": [
+                0,
+                0,
+                0,
+                1,
+                -1,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "datalineIds": [
+                28446,
+                28630,
+                28914,
+                28564,
+                28500,
+                28455,
+                29189,
+                29223,
+                28447,
+                29220,
+                29221
+            ],
+            "datalineCount": 11,
+            "totalCount": 0,
+            "trends": [
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null
+            ],
+            "trendSignificantValues": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+            ]
+        }
+    ]
+}
+}
